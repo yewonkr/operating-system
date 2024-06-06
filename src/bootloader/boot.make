@@ -1,3 +1,6 @@
+
+# make -f boot.make
+
 BUILD_DIR=../build
 ASM=nasm
 
